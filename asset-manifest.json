@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/forkids/static/css/main.c84ba4f2.css",
-    "main.js": "/forkids/static/js/main.6afc8432.js",
+    "main.css": "/forkids/static/css/main.3456b16d.css",
+    "main.js": "/forkids/static/js/main.d5db92d6.js",
     "index.html": "/forkids/index.html",
-    "main.c84ba4f2.css.map": "/forkids/static/css/main.c84ba4f2.css.map",
-    "main.6afc8432.js.map": "/forkids/static/js/main.6afc8432.js.map"
+    "main.3456b16d.css.map": "/forkids/static/css/main.3456b16d.css.map",
+    "main.d5db92d6.js.map": "/forkids/static/js/main.d5db92d6.js.map"
   },
   "entrypoints": [
-    "static/css/main.c84ba4f2.css",
-    "static/js/main.6afc8432.js"
+    "static/css/main.3456b16d.css",
+    "static/js/main.d5db92d6.js"
   ]
 }
